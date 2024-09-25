@@ -1,3 +1,6 @@
+<a href="https://avijitdey255.io">
+  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="MasterHead" style="width:1080px; height:400px;">
+</a>
 <h1 align="center">Hi 👋, I'm Avijit Dey</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
