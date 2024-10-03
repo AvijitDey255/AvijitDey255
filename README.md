@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **adey52115@gamil.com**
 
