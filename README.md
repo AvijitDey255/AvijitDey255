@@ -11,6 +11,14 @@
 
 - 📫 How to reach me **avijitdey2504@gamil.com**
 
+<h3 align="start">Support Me</h3>
+<p align="start">
+  <a href="https://buymeacoffee.com/avijit2520w" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="150" >
+  </a>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/avijit-dey-b430272bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijit dey" height="30" width="40" /></a>
