@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=avijitdey255&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🌱 I’m currently learning **React Native**
+
 
 - 💬 Ask me about **JavaScript**
 
