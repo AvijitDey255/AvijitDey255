@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **adey52115@gamil.com**
+- 📫 How to reach me **avijitdey2504@gamil.com**
 
 <!-- <h3 align="start">Support Me</h3>
 <p align="start">
